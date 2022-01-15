@@ -1,0 +1,79 @@
+body {
+    background: #000 url(../IMAGENES/4.jpg) no-repeat center fixed;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 280;
+    font-family: cursive;
+    -webkit-text-stroke: 2px black;
+  color: transparent;
+  }
+  
+  p {
+    text-align: center;
+    color: white;
+  }
+
+  a {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  strong {
+    color: #333;
+  }
+  
+  #wrapper {
+    width: 100%;
+    max-width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 0;
+    background: transparent url(../IMAGENES/back1.png);
+  padding: 20px;
+  border-radius: 18px
+  }
+  
+  .page-head-image {
+    
+  }
+  
+  .page-head-image img {
+    border-radius: 50%;
+  }
+  
+  #form-trabalhe {
+    margin-top: 30px;
+    text-align: left;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-top: 15px;
+    -webkit-text-stroke: .5px white;
+  }
+  
+  input {
+    border: 2px solid #CCC !important;
+    height: 35px;
+    border-radius: 3px;
+    max-width: 200%;
+  }
+  
+  .input-group-addon {
+    border: 2px solid #CCC !important;
+    border-right: 0px !important;
+  }
+  
+  .btn {
+    border: 0;
+    border-radius: 3px;
+    margin-top: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 0;
+    text-align: left;
+  }
